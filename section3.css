@@ -19,7 +19,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-
+    margin-bottom: 10px;
     box-shadow: #838383 0px 3px 4px 0px;
 }
 

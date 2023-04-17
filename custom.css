@@ -1,0 +1,47 @@
+.rowsb{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.rowse{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.rowsa{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.navitem{
+    color: black;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sectionhead{
+    color: black;
+    font-size: 20px;
+}
+.sech{
+}
+.showall{
+    color: rgba(233, 95, 98, 1);
+    font-size: 15px;
+}

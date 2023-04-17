@@ -1,0 +1,46 @@
+#section1{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 50px;
+   
+}
+.scrollarrrow{
+    width: 40px;
+}
+.sec1card{
+    align-items: center;
+    justify-content: space-between;
+    max-width: 150px;
+    margin-right: 20px;
+    
+}
+.sec1card img{
+    width: 80px;
+}
+.sec1card h1 {
+    font-size: 17px;
+    color: black;
+    text-align: center;
+    /* min-height:50px; */
+}
+
+.sectionwrap{
+/* justify-content: space-around; */
+display: flex;
+overflow-x: auto;
+overflow-y: hidden;
+}
+.scrollarrrow{
+    position: absolute;
+}
+.sectionwrap a:nth-of-type(1){
+    margin-left: 50px;
+}
+.sectionwrap a:nth-last-child(1){
+    margin-right: 50px;
+}
+.scrollarrrow:nth-of-type(2){
+    right: 5px;
+}

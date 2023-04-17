@@ -1,15 +1,94 @@
+/* Section-4 */
+#section4 {
+    overflow-x: auto;
+}
+
+/* Section-5 */
 #section5{
     background-color: white;
-    width: 100%;
     overflow-x: auto;
+    padding: 0px 20px;
 }
 .sec5head{
     margin-top: 20px;
-    padding:20px 20px;
+    padding: 20px 40px;
     background-color: white;
 
 }
-.sec5card a{
-    margin-left: 10px;
-    margin-right: 10px;
+
+.sec5card {
 }
+.sec5card a{
+    margin-left: 30px;
+        margin-right: 30px;
+    }
+    
+    /* Section-6 */
+    #section6 {
+        margin-top: 30px;
+        padding: 0px 20px;
+        overflow-x: auto;
+    }
+    
+    #section6 .row {
+        align-items: center;
+    }
+    
+    .sectionimg1 {
+        width: 500px;
+    }
+    
+    #section6 .info1 {
+        min-height: 50px;
+    }
+    
+    #section6 .cardwidget {
+        height: 240px;
+        margin-left: 30px;
+    }
+    
+    .sec6cardwrap {}
+    
+    /* Section-7 */
+    #section7 .row {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .sec7head {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    /* Section-8 */
+    #section8 {}
+    
+    #section8 .rowse {
+        margin-top: 20px;
+        overflow-x: auto;
+    }
+    
+    /* Section-9 */
+    #section9 {
+        margin-top: 40px;
+    }
+    
+    #section9 .row {
+        justify-content: center;
+    }
+    
+    .sec9img,
+    .res {
+        width: 100%;
+        height: auto;
+    }
+        /* Section-10 */
+        #section10 {
+            margin-top: 30px;
+        }
+    
+        /* Section-10 */
+        #section11 {
+            margin-top: 30px;
+            padding: 0px 50px;
+        }

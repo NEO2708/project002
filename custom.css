@@ -28,6 +28,7 @@
 .navitem{
     color: black;
 }
+.sec6container {}
 
 .col{
     display: flex;
@@ -38,10 +39,18 @@
 .sectionhead{
     color: black;
     font-size: 20px;
+    margin-top: 30px;
 }
 .sech{
 }
 .showall{
     color: rgba(233, 95, 98, 1);
     font-size: 15px;
+}
+.p20 {
+    padding: 0px 20px;
+}
+
+.mt20 {
+    margin-top: 20px;
 }
